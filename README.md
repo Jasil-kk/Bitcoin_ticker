@@ -1,16 +1,25 @@
-# bitcoin_ticker
+# Bitcoin Ticker 🤑
 
-A new Flutter project.
+A Flutter application that provides real-time Bitcoin price information.
+
+## Description
+
+Bitcoin Ticker is a mobile app built with Flutter that allows users to track the latest price of Bitcoin in various currencies. It utilizes an API to fetch real-time data and displays the current Bitcoin price in an easy-to-read format.
+
+## Features
+
+- View the current price of Bitcoin in your selected currency
+- Choose from a wide range of supported currencies
+- Automatic data updates to ensure real-time information
+- Clean and intuitive user interface for a seamless user experience
+
+## Screenshots
+
+![Screenshot 1](images/coinTicker.jpeg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the Bitcoin Ticker app, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   git clone https://github.com/Jasil-kk/Bitcoin_ticker.git
